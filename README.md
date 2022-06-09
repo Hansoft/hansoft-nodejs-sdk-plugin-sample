@@ -8,7 +8,7 @@ It also fetches the assigned to field of a task and it's description.
 * NodeJS installed preferably the LTS version. [NodeJS](https://nodejs.org/en/)
 * A Hansoft server running with a database online and an SDK user created. [Hansoft server](https://www.perforce.com/downloads/hansoft-server) version 11 or higher.
 * [Hansoft SDK](https://www.perforce.com/downloads/hansoft-sdk) installed  version 11.004 or higher.
-* In order to be able to create SDK users a valid non-trial license should be applied to the server. In order to acquire one you can contact [sales@perforce.com](sales@perforce.com)
+* In order to be able to create SDK users a valid non-trial license should be applied to the server. In order to acquire one you can contact [sales@perforce.com](mailto:sales@perforce.com)
 
 ## To run the sample
 
